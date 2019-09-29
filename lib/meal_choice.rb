@@ -1,2 +1,3 @@
 # Your code here
-k
+def meal_choice(veg1, veg2, meat = 'meat')
+  
